@@ -45,10 +45,17 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ cd PROJECT_TITLE
     $ npm install
 
-## Configure app
+# Adding Your API Token
 
-Open `index.js` then add your bearer token. 
+To run this project, you'll need to add your own API token. Follow these steps to configure the project with your token:
 
+1. Open the `index.js` file in the project directory.
+
+2. Look for the section of code that specifies the API token, which may look like this:
+
+   ```javascript
+   //Add your own bearer token.
+   const BearerToken="";
 
 ## Running the project
 
