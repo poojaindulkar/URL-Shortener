@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Shortener</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>URL SHORTENER</h1>
+        <%if(locals.content){%>
+            <div class="response-area" >
+                <h2>Your shortened URL</h2>
+                <p>Copy the shortened link and share it in messages, texts, posts, websites and other locations.</p>
+                <p id="short-URL">
+                    <%= content.link %>
+                </p>
+                <p >
+                    <span>Long URL: </span><%=content.long_url%>
+                </p>
+                <a href="/"><button>Shorten another URL</button></a>
+                
+                
+            </div>
+        <%}else{%>
+            <div class="request-area">
+            <h2>Enter the URL to be Shortened 👇</h2>
+            <form method="post">
+             
+                <input type="text" id="URLInput" name="URL" placeholder="Example: https://www.google.com">
+                <input id="post" type="submit" value="Shorten URL" formaction="/short-URL">
+                <p>URL SHORTENER is a free tool to shorten URLs and generate short links
+                    URL</br> shortener allows to create a shortened link making it easy to share</p>
+    
+            </form>
+        </div>
+        <%}%>
+        
+        
+    </div>
+
+</body>
+
+</html>
