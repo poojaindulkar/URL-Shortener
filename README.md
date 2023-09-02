@@ -2,7 +2,7 @@
 
 ## Project Screenshot
 ![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img1.png))
-![Screenshot](Image URL)
+![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img2.png))
 
 ## Requirements
 
