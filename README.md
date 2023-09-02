@@ -1,8 +1,6 @@
 # URL-Shortener
 
-## Project
-
-[URL Shortener](https://urlshortner-1ony.onrender.com)
+## [Demo](https://urlshortner-1ony.onrender.com)
 
 ## Requirements
 
