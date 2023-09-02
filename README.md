@@ -2,8 +2,8 @@
 
 ## Project Screenshot
 
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/tree/64524a84fe18d80e044f122fd89ed86b6d294eb6/img/img1.png))
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/tree/64524a84fe18d80e044f122fd89ed86b6d294eb6/img/img2.png))
+![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/tree/64524a84fe18d80e044f122fd89ed86b6d294eb6/img/img1.png?raw=true)
+![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/tree/64524a84fe18d80e044f122fd89ed86b6d294eb6/img/img2.png?raw=true)
 
 ## Requirements
 
