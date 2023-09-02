@@ -59,7 +59,7 @@ To run this project, you'll need to add your own API token. Follow these steps t
 
 ## Running the project
 
-    $ nodemon index.js
+    $ node index.js
 
 ## 
 
