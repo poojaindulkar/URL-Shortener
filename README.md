@@ -2,7 +2,7 @@
 
 ## Project
 
-[URL Shortener](https://urlshortner-1ony.onrender.com/short-URL)
+[URL Shortener](https://urlshortner-1ony.onrender.com)
 
 ## Requirements
 
