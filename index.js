@@ -17,7 +17,7 @@ app.use(express.static('public'));
 const API_URL="https://api-ssl.bitly.com/v4/shorten";
 
 //Add your own bearer token.
-const BearerToken="";
+const BearerToken="d4160361c0036843770ce08c9bc5e89c5fdefa10";
 
 // Configure headers for API requests
 const config={
