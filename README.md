@@ -1,9 +1,8 @@
 # URL-Shortener
 
-## Project Screenshot
+## Project
 
-![Screenshot]([Image URL](./img/img1.png?raw=true))
-![Screenshot]([Image URL](./img/img2.png?raw=true))
+[URL Shortener](https://urlshortner-1ony.onrender.com/short-URL)
 
 ## Requirements
 
