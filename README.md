@@ -2,8 +2,8 @@
 
 ## Project Screenshot
 
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img1.png?raw=true))
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img2.png?raw=true))
+![Screenshot]([Image URL](./img/img1.png?raw=true))
+![Screenshot]([Image URL](./img/img2.png?raw=true))
 
 ## Requirements
 
@@ -42,8 +42,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/poojaindulkar/URL-Shortener.git
+    $ cd URL-Shortener
     $ npm install
 
 # Adding Your API Token
