@@ -2,8 +2,8 @@
 
 ## Project Screenshot
 
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img1.png?raw=true)
-![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img2.png?raw=true)
+![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img1.png?raw=true))
+![Screenshot]([Image URL](https://github.com/poojaindulkar/URL-Shortener/blob/main/img/img2.png?raw=true))
 
 ## Requirements
 
